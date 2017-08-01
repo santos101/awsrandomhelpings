@@ -1,0 +1,3 @@
+awss3lambdacp.py
+
+A python script to copy from one bucket to another upon triggering of lambda
